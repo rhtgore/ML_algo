@@ -1,0 +1,3 @@
+Logistic Regression
+ypred = mx + c
+prediction = 1 / (1 + exp(-ypred))  # Sigmoid function
