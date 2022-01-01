@@ -1,0 +1,5 @@
+Gradient Descent
+ypred = m*x + c
+MSE = sum((y-ypred)^2) / n
+m_nw = m_prev - learning_rate * d MSE/dm
+c_nw = c_prev - learning_rate * d MSE/dc
