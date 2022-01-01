@@ -1,0 +1,5 @@
+Linear regression
+One variable : y = m1 * x1 + c
+Multi variables : y = m1* x1 + m2 * x2 + m3 * x3 + c
+coef, intercept
+r2_score, MSE
